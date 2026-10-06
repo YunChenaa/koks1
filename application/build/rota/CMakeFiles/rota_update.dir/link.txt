@@ -1,0 +1,2 @@
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ar qc librota_update.a CMakeFiles/rota_update.dir/src/rota_update.c.o CMakeFiles/rota_update.dir/src/rota_image.c.o CMakeFiles/rota_update.dir/src/rota_md5.c.o
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ranlib librota_update.a

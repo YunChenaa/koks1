@@ -1,0 +1,18 @@
+/*
+ * @Copyright: (c) 2025 SunVision. All rights reserved.
+ */
+
+#ifndef KOKS_PROJECT_DEF_H
+#define KOKS_PROJECT_DEF_H
+
+#define KOKS_PROJECT_M21A
+#define KOKS_FEATURE_KDS
+#define KOKS_FEATURE_MAX_SENSOR_NUM 2
+#define KOKS_FEATURE_CUSTOM_GPIO
+#define KOKS_FEATURE_VIDEO
+#define KOKS_FEATURE_AUDIO
+#define KOKS_FEATURE_30FPS
+#define KOKS_FEATURE_AUDIO_SAMPLE_REATE 16000
+#define KOKS_FEATURE_USB_ISO
+
+#endif // KOKS_PROJECT_DEF_H

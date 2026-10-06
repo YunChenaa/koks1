@@ -1,0 +1,2 @@
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ar qc libkoks_common.a CMakeFiles/koks_common.dir/src/json11.cpp.o CMakeFiles/koks_common.dir/src/sys_logger.cpp.o CMakeFiles/koks_common.dir/src/os_utils.cpp.o CMakeFiles/koks_common.dir/src/soft_codec.cpp.o CMakeFiles/koks_common.dir/src/st_koks_led.cpp.o CMakeFiles/koks_common.dir/src/partition_guard.cpp.o
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ranlib libkoks_common.a

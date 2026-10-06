@@ -1,0 +1,2 @@
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ar qc libmedia_core.a CMakeFiles/media_core.dir/src/st_koks_mediamanager.cpp.o CMakeFiles/media_core.dir/src/st_koks_isp.cpp.o CMakeFiles/media_core.dir/src/st_koks_uvc.cpp.o CMakeFiles/media_core.dir/src/st_koks_uvc_factory.cpp.o CMakeFiles/media_core.dir/src/st_koks_video.cpp.o CMakeFiles/media_core.dir/src/st_koks_audio.cpp.o
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ranlib libmedia_core.a

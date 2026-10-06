@@ -1,0 +1,4 @@
+detection_t33_magik.mgk 0x00008000   630073
+alignment_t33_magik.mgk 0x000B8000   787215
+live2i_t33_magik.mgk    0x00190000   2028469
+feature_t33_magik.mgk   0x00398000   3504397

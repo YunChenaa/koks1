@@ -1,0 +1,2 @@
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ar qc libapp_flash_otp.a CMakeFiles/app_flash_otp.dir/src/app_flash_otp.c.o
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ranlib libapp_flash_otp.a

@@ -1,0 +1,2 @@
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ar qc libfactory.a CMakeFiles/factory.dir/src/audio_test.cpp.o CMakeFiles/factory.dir/src/factory.cpp.o
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ranlib libfactory.a

@@ -1,0 +1,7 @@
+detection_t33_magik.mgk         0x00008000   475700
+alignment_t33_magik.mgk         0x000A0000   787215
+live2i_t33_magik.mgk            0x00188000   1936693
+feature_t33_magik.mgk           0x00388000   3504397
+palm_alignment_t33_magik.mgk    0x00700000   739393
+palm_feature_t33_magik.mgk      0x007D8000   3411149
+palm_live2i_t33_magik.mgk       0x00B40000   2362990

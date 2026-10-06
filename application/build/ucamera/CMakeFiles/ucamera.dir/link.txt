@@ -1,0 +1,2 @@
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ar qc libucamera.a CMakeFiles/ucamera.dir/src/inlock_param_init.c.o CMakeFiles/ucamera.dir/src/uac_control.c.o CMakeFiles/ucamera.dir/src/ucamera_control.c.o CMakeFiles/ucamera.dir/src/uvc_control.c.o CMakeFiles/ucamera.dir/src/xu_control/uvc_eu_control.c.o CMakeFiles/ucamera.dir/src/xu_control/uvc_xu_control.c.o
+/opt/Ingenic/T33/mips-gcc540-glibc222-r3.3.7.mxu2.cve2/bin/mips-linux-uclibc-gnu-ranlib libucamera.a

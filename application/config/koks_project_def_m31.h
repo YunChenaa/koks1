@@ -1,0 +1,18 @@
+/*
+ * @Copyright: (c) 2025 SunVision. All rights reserved.
+ */
+
+#ifndef KOKS_PROJECT_DEF_H
+#define KOKS_PROJECT_DEF_H
+
+#define KOKS_PROJECT_M31
+#define KOKS_FEATURE_DSM
+#define KOKS_FEATURE_MAX_SENSOR_NUM 2
+#define KOKS_SDK_VERSION_V2
+#define KOKS_OSD_ON_LEFT
+#define KOKS_FEATURE_PALM
+#define KOKS_FEATURE_60FPS
+#define KOKS_FEATURE_AUDIO_SAMPLE_RATE 8000
+#define KOKS_FEATURE_FAST_LDC
+
+#endif // KOKS_PROJECT_DEF_H
